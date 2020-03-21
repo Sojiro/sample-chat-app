@@ -24,6 +24,7 @@
   "homepage": "https://github.com/Sojiro/sample-chat-app#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "serverless-http": "^2.3.2",
     "socket.io": "^2.3.0"
   }
 }
